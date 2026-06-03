@@ -8,15 +8,15 @@ My core conviction is that the IVF laboratory already generates all the data nee
 
 ---
 
-My path into computational modelling came from clinical practice: years of working directly with IVF data made the gap between what the numbers contained and what decisions they actually informed increasingly difficult to ignore. The Digital Twin project is an attempt to close that gap — not by replacing clinical judgement, but by giving it a more rigorous quantitative foundation.
+My path into computational modelling came from clinical practice: years of working directly with IVF data made the gap between what the numbers contained and what decisions they actually informed increasingly difficult to ignore. The realization of my vision and my experience in the wet lab led to the conceptualization of transforming our IVF in vitro laboratory data into digital in silico analytics with AI — and finally grew into a new project built around an entirely new way of strategic thinking. The Digital Twin project is an attempt to close that gap — not by replacing clinical judgement, but by giving it a more rigorous quantitative foundation.
 
 ---
 
-The central project is the **IVF Digital Twin** — a seven-layer probabilistic decision-support platform for IVF outcome prediction and patient stratification. Each layer addresses a distinct epistemic question, from stochastic simulation of ovarian response through neural ensemble prediction, unsupervised phenotype classification, diffusion-based laboratory forecasting, graph-based patient similarity reasoning, and Bayesian evidence fusion.
+The central project is the IVF Digital Twin — a seven-layer probabilistic decision-support platform for IVF outcome prediction and patient stratification. Each layer addresses a distinct epistemic question, from stochastic simulation of ovarian response through neural ensemble prediction, unsupervised phenotype classification, diffusion-based laboratory forecasting, graph-based patient similarity reasoning, and Bayesian evidence fusion.
 
 The platform is designed around a principle I call *equifinality verification*: the same clinical question is approached simultaneously from multiple independent methodological directions — parametric simulation, deep learning, generative modelling, graph neural networks — and the degree of convergence or divergence between their answers is itself diagnostically informative. When independent methods agree, that agreement is genuine corroboration. When they diverge, the divergence warrants clinical attention.
 
-The most recent addition is the **Total Reproductive Potential (TRP) framework** — a strategic planning layer that extends single-cycle prediction to the couple's full reproductive horizon, modelling cumulative pregnancy probability, biological window closure risk, and AMH decline trajectories through Monte Carlo simulation conditioned on the patient's own KAT-calibrated baseline.
+The most recent addition is the Total Reproductive Potential (TRP) framework — a strategic planning layer that extends single-cycle prediction to the couple's full reproductive horizon, modelling cumulative pregnancy probability, biological window closure risk, and AMH decline trajectories through Monte Carlo simulation conditioned on the patient's own KAT-calibrated baseline.
 
 ---
 
