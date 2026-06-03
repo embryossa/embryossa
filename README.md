@@ -20,8 +20,6 @@ The most recent addition is the **Total Reproductive Potential (TRP) framework**
 
 ---
 
-## Stack
-
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
